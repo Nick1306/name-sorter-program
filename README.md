@@ -1,4 +1,3 @@
-# Name-Sorter
 Trivial "Sort by Last Name" Exercise
 ====================================
 
